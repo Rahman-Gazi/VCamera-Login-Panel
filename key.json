@@ -18,9 +18,7 @@
     "updateRequired": false,
     "updateUrl": "https://t.me/Rahman_Gazi"
   },
-  "BannedHWIDs": {
-    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
-  },
+  "BannedHWIDs": {},
   "Keys": {
     "34DDE8EBBBBEFBAF": {
       "hwid": "34DDE8EBBBBEFBAF",
