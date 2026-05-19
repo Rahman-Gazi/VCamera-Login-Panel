@@ -19,5 +19,13 @@
     "updateUrl": "https://t.me/Rahman_Gazi"
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "Gazi": {
+      "hwid": "34DDE8EBBBBEFBAF",
+      "expireDate": "2026-06-18",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
