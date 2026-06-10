@@ -33,6 +33,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "afnan": {
+      "hwid": "F6D610966B2607D1",
+      "expireDate": "2026-07-10",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
