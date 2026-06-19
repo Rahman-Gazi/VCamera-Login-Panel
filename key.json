@@ -26,6 +26,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "Admin": {
+      "hwid": "B897CFB4762AA955",
+      "expireDate": "2028-01-01",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
